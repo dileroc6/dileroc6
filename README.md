@@ -1,5 +1,6 @@
-# Hola mi nombre es Diego y estoy aquí porque quiero desarrollarme como Ingeniero DevOps 👋
+## Hola mi nombre es Diego 👋
 
+### Estoy aquí porque quiero desarrollarme como Ingeniero DevOps.
 <!--
 **dileroc6/dileroc6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
