@@ -1,6 +1,6 @@
 ## Hola mi nombre es Diego 👋
 
-### Estoy aquí porque quiero desarrollarme como Ingeniero DevOps.
+### Estoy aquí porque quiero desarrollarme como Ingeniero DevOps. :computer:
 
 # Actualmente estoy aprendiendo los siguientes temas:
 
