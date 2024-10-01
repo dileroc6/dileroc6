@@ -1,6 +1,16 @@
 ## Hola mi nombre es Diego 👋
 
 ### Estoy aquí porque quiero desarrollarme como Ingeniero DevOps.
+
+# Actualmente estoy aprendiendo los siguientes temas:
+
+* GitHub
+* GitHub Actions
+* Terraform
+* AWS
+* Azure
+* GCP
+* Kubernetes
 <!--
 **dileroc6/dileroc6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
